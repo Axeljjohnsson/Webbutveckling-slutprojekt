@@ -1,7 +1,14 @@
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float: initial;
     width: 800px;
     height: 300px;
+}
+
+div {
+    float: initial; 
+    width: 350px;
+    border: 5px solid black;
+    padding: 250px;
+    margin: 50px;
+    text-align: center;
 }
